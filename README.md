@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello pal 👋
+![giphy](https://user-images.githubusercontent.com/91260159/165366092-b4c57ed8-7ebb-49f9-b7bd-06239a0f45e4.gif)
+
+
 
 - 🔭 I’m currently working on matchIT 
 - 🌱 I’m currently learning Digital Image Processing
