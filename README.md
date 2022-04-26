@@ -13,13 +13,13 @@
 
 <br />
 <br/>
+I am a curious, hard working and creative programmer who Offers well-developed analytical skills and excellent teamwork abilities.
 
-  
-- 🔭 I’m currently working on matchIT 
+- 🏫 I am a 2nd year ISE student at M S Ramaiah Institute Of Technology
+- 🔭 I’m currently working on *matchIT* 
 - 🌱 I’m currently learning Digital Image Processing
 - 💬 Ask me about Tech and Life
-- 💼 any freelance work? do reach, [email](mailto:rohanaj2001@gmail.com) :)
-
+- 💼 Any freelance work? do reach, [email](mailto:rohanaj2001@gmail.com) :)
 - ⚡ Fun fact: The root is at the top of the tree!
 
 
