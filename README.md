@@ -18,9 +18,10 @@
 - 🔭 I’m currently working on matchIT 
 - 🌱 I’m currently learning Digital Image Processing
 - 💬 Ask me about Tech and Life
-- 📫 How to reach me: rohanaj2001@gmail.com
-- ⚡ Fun fact: The root is at the top of the tree!
 - 💼 any freelance work? do reach, [email](mailto:rohanaj2001@gmail.com) :)
+
+- ⚡ Fun fact: The root is at the top of the tree!
+
 
 **Languages and Tools:**  
 
