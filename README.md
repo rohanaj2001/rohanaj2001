@@ -13,7 +13,7 @@
 
 <br />
 <br/>
-I am a curious, hard working and creative programmer who Offers well-developed analytical skills and excellent teamwork abilities.
+I am a curious, hard working and creative programmer who offers well-developed analytical skills and excellent teamwork abilities.
 <br/>
 I specialize in MERN stack and FIGMA 
 <br/>
