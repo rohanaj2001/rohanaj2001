@@ -15,7 +15,7 @@
 <br/>
 I am a curious, hard working and creative programmer who Offers well-developed analytical skills and excellent teamwork abilities.
 <br/>
-I specilize in MERN stack and FIGMA 
+I specialize in MERN stack and FIGMA 
 <br/>
 <br/>
 
