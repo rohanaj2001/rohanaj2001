@@ -20,9 +20,9 @@ I specialize in MERN stack and FIGMA
 <br/>
 
 
-- 🏫 I am a 2nd year ISE student at M S Ramaiah Institute Of Technology
+- 🏫 I am a 3rd year ISE student at M S Ramaiah Institute Of Technology
 - 🔭 I’m currently working on *matchIT* 
-- 🌱 I’m currently learning Digital Image Processing
+- 🌱 I’m currently learning Compter vision 
 - 💬 Ask me about Tech and Life
 - 💼 Any freelance work? do reach, [email](mailto:rohanaj2001@gmail.com) :)
 - ⚡ Fun fact: The root is at the top of the tree!
