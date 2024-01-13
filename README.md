@@ -15,14 +15,12 @@
 <br/>
 I am a curious, hard working and creative programmer who offers well-developed analytical skills and excellent teamwork abilities.
 <br/>
-I specialize in MERN stack and FIGMA 
-<br/>
 <br/>
 
 
-- 🏫 I am a 3rd year ISE student at M S Ramaiah Institute Of Technology
-- 🔭 I’m currently working on *matchIT* 
-- 🌱 I’m currently learning Compter vision 
+- 🏫 I am a final year ISE student at M S Ramaiah Institute Of Technology
+- 🔭 I’m currently working on *game-of-life* 
+- 🌱 I’m currently learning Data science 
 - 💬 Ask me about Tech and Life
 - 💼 Any freelance work? do reach, [email](mailto:rohanaj2001@gmail.com) :)
 - ⚡ Fun fact: The root is at the top of the tree!
