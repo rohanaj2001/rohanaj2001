@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/rohan-a-j-047a2319b/">
-  <img align="left" alt="Rohan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aj_prototype/">
   <img align="left" alt="Rohan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
